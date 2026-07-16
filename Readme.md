@@ -19,4 +19,4 @@ This is a simple AI chatbot developed using Python. It responds to user inputs b
    python chatbot.py
 
 ## Author
-Your Name
+Kotilakshmi
